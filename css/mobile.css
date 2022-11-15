@@ -76,9 +76,9 @@ form {
   padding: 20px;
 }
 
-#foto-pibardos{
+/* foto*/
+.img-center{
   display: flex;
   justify-content: center;
-  width: 250px;
-  height: 250px;
+  align-content: center;
 }
